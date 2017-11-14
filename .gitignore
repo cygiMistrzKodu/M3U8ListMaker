@@ -3,3 +3,5 @@
 .project
 .classpath
 .idea
+*.mp3
+*.m3u8
